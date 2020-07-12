@@ -10,5 +10,6 @@ public class HelloGit {
 		System.out.println("Branch1");
 		System.out.println("Branch2");
 		System.out.println("struggle");
+		System.out.println("第二次更新了");
 	}
 }
