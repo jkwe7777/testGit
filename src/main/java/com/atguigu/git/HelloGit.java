@@ -8,9 +8,5 @@ public class HelloGit {
 		System.out.println("four:I love jeag");		
 		System.out.println("five:I love jeag");		
 		System.out.println("six:I love jeag");		
-		System.out.println("seven:I love jeag");		
-		System.out.println("eight:I love jeag");		
-		System.out.println("nine:I love jeag");		
-		System.out.println("zero:I love jeag");		
 	}
 }
